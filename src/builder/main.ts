@@ -12,4 +12,4 @@ const myDocument = builder
   .addBody(body)
   .build();
 
-console.log(myDocument);
+  console.log(myDocument.toString());
